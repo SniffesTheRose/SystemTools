@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  SystemTools.cpp
+SystemTools.cpp(14): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\minwindef.h(193): note: 参见“max”的前一个定义
+SystemTools.cpp(19): warning C4244: “参数”: 从“jlong”转换到“DWORD”，可能丢失数据
+    正在创建库 E:\SystemTools\SystemTools\x64\Release\SystemTools.lib 和对象 E:\SystemTools\SystemTools\x64\Release\SystemTools.exp
+  正在生成代码
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SystemTools.vcxproj -> E:\SystemTools\SystemTools\x64\Release\SystemTools.dll

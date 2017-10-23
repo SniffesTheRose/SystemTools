@@ -1,0 +1,4 @@
+﻿  SystemTools.cpp
+e:\systemtools\systemtools\systemtools\systemtools.cpp(14): warning C4005: “max”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(193): note: 参见“max”的前一个定义
+e:\systemtools\systemtools\systemtools\systemtools.cpp(19): warning C4244: “参数”: 从“jlong”转换到“DWORD”，可能丢失数据
